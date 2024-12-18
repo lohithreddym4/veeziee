@@ -1,0 +1,42 @@
+{
+  "name": "veezie",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@nextui-org/react": "^2.2.10",
+    "@reduxjs/toolkit": "^2.2.2",
+    "aws4": "^1.12.0",
+    "axios": "^1.6.8",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.3.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express-validator": "^7.0.1",
+    "fortawesome": "^0.0.1-security",
+    "framer-motion": "^11.0.24",
+    "js-cookie": "^3.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.2.4",
+    "next": "14.1.4",
+    "next-absolute-url": "^1.2.2",
+    "peerjs": "^1.5.2",
+    "react": "^18",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-redux": "^9.1.0",
+    "redux": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.1.4"
+  }
+}
